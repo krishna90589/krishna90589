@@ -29,7 +29,7 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishna90589&show_icons=true&theme=tokyonight)
-
+https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=krishna90589&layout=compact&theme=tokyonight
 ![GitHub Streak](https://streak-stats.demolab.com/?user=krishna90589&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna90589&layout=compact&theme=tokyonight)
