@@ -1,58 +1,38 @@
 # 👋 Hi, I'm Sourav
 
-🎓 **B.Tech CSE 2nd Year Student**  
-💻 **Skills:** C, Python, JavaScript, HTML, CSS  
-🤖 **Currently Working On:** An AI-based project  
-📍 **Location:** Modinagar, India  
-🔥 Passionate about building real-world projects using AI & Web Technologies.
+🎓 B.Tech CSE 2nd Year  
+💻 Skills: C, Python, JavaScript, HTML, CSS  
+🤖 AI Project Developer  
+📍 Modinagar  
+📸 Instagram: @dark_soul_krishna  
 
 ---
 
-## 🌱 What I'm Learning
-- Artificial Intelligence  
-- Web Development  
-- Python Projects  
-- JavaScript & Frontend Skills  
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=15)
 
 ---
 
-## 🤝 Looking to Collaborate On
-- AI Projects  
-- Web Development  
-- Creative Tech Ideas
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dark_soul_krishna)
 
 ---
 
-## 📫 How to Reach Me
-- **Instagram:** [@dark_soul_krishna](https://instagram.com/dark_soul_krishna)
+## 🧰 Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-⭐ *Thanks for visiting my profile!*
-
-<!--
-**krishna90589/krishna90589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
