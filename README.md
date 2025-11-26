@@ -4,7 +4,7 @@
 💻 Skills: C, Python, JavaScript, HTML, CSS  
 🤖 AI Project Developer  
 📍 Modinagar  
-📸 Instagram: @dark_soul_krishna  
+📸 Instagram: @dark_soul_krishna_  
 
 ---
 
@@ -14,7 +14,7 @@
 ---
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dark_soul_krishna)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dark_soul_krishna_)
 
 ---
 
