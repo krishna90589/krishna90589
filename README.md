@@ -9,7 +9,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=krishna90589&theme=radical&no-frame=true&margin-w=15)
 
 ---
 
@@ -28,9 +28,11 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishna90589&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=krishna90589&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna90589&layout=compact&theme=tokyonight)
 
 ---
 
